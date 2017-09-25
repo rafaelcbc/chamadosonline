@@ -1,0 +1,17 @@
+/* Folha de Estilo Personalizada */
+
+.login-panel {
+    margin-top: 15%;
+}
+
+.checkbox {
+    margin-top: 10px;
+}
+
+.site-color {
+    @extend .cyan
+}
+
+.card-header {
+    font-size: 1.5em;
+}
