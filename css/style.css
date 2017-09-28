@@ -1,15 +1,15 @@
 /* Folha de Estilo Personalizada */
 
+.site-color {
+    background-color: #7283a7 !important;
+}
+
 .login-panel {
     margin-top: 15%;
 }
 
 .checkbox {
     margin-top: 10px;
-}
-
-.site-color {
-    @extend .cyan
 }
 
 .card-header {
